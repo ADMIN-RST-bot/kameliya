@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: linear-gradient(to bottom right, #ffd5ec, #fff0f5);
+    background: linear-gradient(to bottom right, #fc1895, #fff0f5d2);
     font-family: 'Segoe UI', sans-serif;
     overflow-x: hidden;
   }
@@ -40,7 +40,7 @@ body {
   }
   
   .gallery {
-    display: flex;
+    display: flex; 
     justify-content: center;
     flex-wrap: wrap;
     gap: 20px;
