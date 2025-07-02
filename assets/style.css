@@ -350,6 +350,10 @@ body {
 
 /* Стили для планшетов в портретной ориентации */
 @media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+  body{
+    background-color: #a61b4d;
+  }
+
   .gallery {
     padding: 30px 15px;
   }
